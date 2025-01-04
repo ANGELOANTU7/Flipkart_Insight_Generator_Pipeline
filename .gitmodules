@@ -1,0 +1,3 @@
+[submodule "Lambda_Function_as_image/log_analyzer"]
+	path = Lambda_Function_as_image/log_analyzer
+	url = git@github.com:ANGELOANTU7/log_analyzer.git
