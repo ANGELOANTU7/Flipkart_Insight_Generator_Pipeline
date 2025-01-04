@@ -1,0 +1,8 @@
+boto3
+pdfkit
+pandas
+google-generativeai
+opencv-contrib-python
+python-dotenv
+markdown
+openpyxl
