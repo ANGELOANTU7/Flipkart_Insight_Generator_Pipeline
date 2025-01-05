@@ -1,5 +1,5 @@
 # Insights Generator
-
+![Banner](insight.jpg)  
 A serverless application that processes Excel files from S3, generates insights using Google's Gemini AI, and creates PDF reports. This application is designed to run as an AWS Lambda function and is containerized using Docker.
 
 ## Overview
